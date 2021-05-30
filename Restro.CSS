@@ -1,0 +1,23 @@
+
+nav{
+  background:#0f0f0f;
+  width:100%;
+  overflow:left;
+}
+
+nav a{
+  
+   text-decoration:none;
+   text-align:center;
+   padding:0 28px;
+   color:white;
+   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+ 
+   
+}
+  nav a:hover{
+    width:50%;
+      background:rgb(238, 92, 24);
+      color:black;
+      text-transform: uppercase;
+  }
